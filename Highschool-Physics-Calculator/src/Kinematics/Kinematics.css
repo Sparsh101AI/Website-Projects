@@ -1,0 +1,62 @@
+.kcard {
+  text-shadow: 1px 1px #a1a1a1;
+  border: 2px solid #e7e7e7 !important;
+  box-shadow: 1px 1px 10px 6px rgba(0, 0, 0, 0.123);
+  margin: 1.5rem 0.9rem;
+  border-radius: 4px !important;
+  cursor: pointer;
+  transition: ease-in 0.3s;
+  bottom: 0;
+}
+
+.inp {
+  margin-bottom: 3% !important;
+  border: 3px solid white !important;
+  border-radius: 4px !important;
+  outline: none !important;
+  box-shadow: 2px 2px #a1a1a1;
+  padding-left: 1% !important;
+}
+
+.calcbtn {
+  border: 3px solid white !important;
+  border-radius: 4px !important;
+  outline: none !important;
+  box-shadow: 2px 2px #a1a1a1;
+  margin-top: 2% !important;
+  outline: none !important;
+  text-align: center !important;
+  color: white;
+  text-shadow: 1px 1px #a1a1a1;
+  padding: 5px;
+  background-color: #f1b40b !important;
+}
+
+/*rgb(253, 55, 55)*/
+
+.foot {
+  background-color: rgb(201, 201, 201) !important;
+  border-top: 2px solid #e7e7e7 !important;
+}
+
+.foot-text {
+  background-color: rgb(201, 201, 201) !important;
+  color: rgb(34, 34, 34);
+  text-shadow: none !important;
+}
+
+#k1 {
+  background-color: #b589d6 !important;
+}
+#k2 {
+  background-color: #9969c7 !important;
+}
+#k3 {
+  background-color: #804fb3 !important;
+}
+#k4 {
+  background-color: #71439c !important;
+}
+#k5 {
+  background-color: #613d85 !important;
+}

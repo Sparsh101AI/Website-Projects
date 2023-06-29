@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #f5c525 !important;
+  font-family: Roboto, Verdana;
+}
+.homeBody {
+  width: 85%;
+  padding-top: 2% !important;
+  padding-bottom: 4% !important;
+  padding-left: 3% !important;
+  padding-right: 3% !important;
+  margin: 0 auto;
+  margin-top: 3%;
+  text-shadow: 1px 1px #a1a1a1;
+  background-color: #5096f1 !important;
+  border: 2px solid #e7e7e7 !important;
+  box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.123);
+}
+.homeTitle {
+  font-size: 45px !important;
+  background-color: #5096f1 !important;
+  font-weight: 300 !important;
+  padding-bottom: 5px !important;
+}
+.homeText {
+  font-family: Verdana !important;
+  background-color: #5096f1 !important;
+  font-weight: 300 !important;
+  font-size: 17px !important;
+  margin-top: 2%;
+}
+.homeTitle2 {
+  font-weight: 300 !important;
+  background-color: #5096f1 !important;
+  font-size: 25px !important;
+  font-style: italic !important;
+}

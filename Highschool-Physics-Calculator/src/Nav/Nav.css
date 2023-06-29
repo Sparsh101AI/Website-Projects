@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap");
+
+.nav-colortop {
+  background-color: rgb(255, 255, 255);
+}
+
+.button-color {
+  text-decoration: none;
+  color: white;
+  font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  border: 2px solid #e7e7e7;
+  border-radius: 4px;
+  text-shadow: 1px 1px #a1a1a1;
+  font-weight: 300;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 35px;
+  background-color: #f1c83f !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  transition: ease-in 0.2s;
+  box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.123);
+}
+.homeButtonColor {
+  text-decoration: none;
+  color: white;
+  font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  border: 2px solid #e7e7e7;
+  border-radius: 4px;
+  text-shadow: 1px 1px #a1a1a1;
+  font-weight: 300;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 35px;
+  background-color: #5096f1 !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  transition: ease-in 0.2s;
+  box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.123);
+}
+.pcButtonColor {
+  text-decoration: none;
+  color: white;
+  font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  border: 2px solid #e7e7e7;
+  border-radius: 4px;
+  text-shadow: 1px 1px #a1a1a1;
+  font-weight: 300;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 35px;
+  background-color: #e95353 !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  transition: ease-in 0.2s;
+  box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.123);
+}
+.aboutButtonColor {
+  text-decoration: none;
+  color: white;
+  font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  border: 2px solid #e7e7e7;
+  border-radius: 4px;
+  text-shadow: 1px 1px #a1a1a1;
+  font-weight: 300;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 35px;
+  background-color: rgb(255, 167, 4) !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  transition: ease-in 0.2s;
+  box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.123);
+}
+#homeButton:hover {
+  background-color: #5096f1 !important;
+}
+#calcButton:hover {
+  background-color: #e95353 !important;
+}
+#aboutButton:hover {
+  background-color: rgb(255, 167, 4) !important;
+}
+.auto1 {
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
+  font-size: xx-large;
+}
+
+.auto {
+  margin-left: auto;
+  text-decoration: none;
+  font-size: xx-large;
+}
+
+.headertext {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: x-large;
+  color: #27206b;
+  text-align: right;
+}
+
+.navtex {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+  color: #27206b;
+}
+
+.midbar {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+  background-color: #cfcfcf;
+}
+
+.nav-color1 {
+  background-color: #f5c525;
+}

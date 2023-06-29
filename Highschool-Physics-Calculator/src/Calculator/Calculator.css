@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, Verdana, Arial, sans-serif !important;
+}
+
+.header1 {
+  font-weight: 300;
+  text-shadow: 1px 1px #a1a1a1;
+  font-size: 50px;
+  border: 2px solid #e7e7e7;
+  background-color: #e95353 !important;
+  width: 85%;
+  margin: auto;
+  border-radius: 4px;
+  box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.123);
+}
+
+.cardg {
+  text-shadow: 1px 1px #a1a1a1;
+  border: 2px solid #e7e7e7 !important;
+  box-shadow: 1px 1px 10px 6px rgba(0, 0, 0, 0.123);
+  margin: 1.5rem 0.9rem;
+  border-radius: 4px !important;
+  cursor: pointer;
+  transition: ease-in 0.3s;
+  bottom: 0;
+}
+.calcTitle {
+  font-size: 35px !important;
+  font-weight: 300;
+}
+.calcText {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#kinematics {
+  background-color: #8072a0 !important;
+}
+#dynamics {
+  background-color: rgb(116, 124, 245) !important;
+}
+#cM {
+  background-color: rgb(133, 131, 131) !important;
+  color: rgb(66, 66, 66) !important;
+  text-shadow: 1px 1px rgb(179, 179, 179) !important;
+}
+.hide {
+  display: none !important;
+}
+.cardg:hover {
+  bottom: 1rem;
+}
+
+.linkcolor {
+  text-decoration: none;
+  width: 33%;
+}
+.link1 {
+  text-decoration: none;
+}
